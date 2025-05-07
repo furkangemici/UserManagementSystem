@@ -26,13 +26,19 @@ Bu proje, kullanıcı yönetimi için geliştirilmiş bir Windows Forms uygulama
 
 2. Projeyi Visual Studio'da açın.
 
-3. `App.config` dosyasını düzenleyerek kendi Gmail hesabınızı ve uygulama şifrenizi ekleyin:
-   ```xml
-   <appSettings>
-     <add key="MailAddress" value="your-email@gmail.com" />
-     <add key="MailPassword" value="your-app-password" />
-   </appSettings>
-   ```
+3. `App.config` dosyasını oluşturun:
+   - Projenizin kök dizininde `App.config` adında bir dosya oluşturun.
+   - Aşağıdaki içeriği ekleyin:
+     ```xml
+     <?xml version="1.0" encoding="utf-8"?>
+     <configuration>
+       <appSettings>
+         <add key="MailAddress" value="your-email@gmail.com" />
+         <add key="MailPassword" value="your-app-password" />
+       </appSettings>
+     </configuration>
+     ```
+   - `your-email@gmail.com` ve `your-app-password` yerine kendi Gmail hesabınızı ve uygulama şifrenizi yazın.
 
 4. Projeyi derleyin ve çalıştırın.
 
