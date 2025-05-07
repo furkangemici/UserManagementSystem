@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|c:\\users\\furkn\\onedrive\\masa\u00FCst\u00FC\\usermanagementsystem\\formphonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formphonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\formforgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formforgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|c:\\users\\furkn\\onedrive\\masa\u00FCst\u00FC\\usermanagementsystem\\formusermanegement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formusermanegement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\formsalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formsalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\formnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\formkay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formkay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\formreminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formreminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|c:\\users\\furkn\\onedrive\\masa\u00FCst\u00FC\\usermanagementsystem\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF8BF29-C1CC-4CE3-850E-D58615D427D3}|UserManagementSystem.csproj|solutionrelative:anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormForgetPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormForgetPassword.cs",
+              "RelativeDocumentMoniker": "FormForgetPassword.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormForgetPassword.cs [Design]",
+              "RelativeToolTip": "FormForgetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:02:56.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormUserManegement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormUserManegement.cs",
+              "RelativeDocumentMoniker": "FormUserManegement.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormUserManegement.cs [Design]",
+              "RelativeToolTip": "FormUserManegement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:32:08.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSalaryCalculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormSalaryCalculator.cs",
+              "RelativeDocumentMoniker": "FormSalaryCalculator.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormSalaryCalculator.cs [Design]",
+              "RelativeToolTip": "FormSalaryCalculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:44:12.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPhoneBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormPhoneBook.cs",
+              "RelativeDocumentMoniker": "FormPhoneBook.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormPhoneBook.cs [Design]",
+              "RelativeToolTip": "FormPhoneBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:32:07.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormKay\u0131t.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormKay\u0131t.cs",
+              "RelativeDocumentMoniker": "FormKay\u0131t.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormKay\u0131t.cs [Design]",
+              "RelativeToolTip": "FormKay\u0131t.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:03:14.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNotes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormNotes.cs",
+              "RelativeDocumentMoniker": "FormNotes.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormNotes.cs [Design]",
+              "RelativeToolTip": "FormNotes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:03:21.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormReminder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormReminder.cs",
+              "RelativeDocumentMoniker": "FormReminder.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormReminder.cs [Design]",
+              "RelativeToolTip": "FormReminder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:49:31.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\Notes.cs",
+              "RelativeDocumentMoniker": "Notes.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\Notes.cs",
+              "RelativeToolTip": "Notes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:27:53.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormProfile.cs",
+              "RelativeDocumentMoniker": "FormProfile.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\usr\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem\\FormProfile.cs [Design]",
+              "RelativeToolTip": "..\\usr\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem\\FormProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:03:23.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\usr\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem\\FormMenu.cs [Design]",
+              "RelativeToolTip": "..\\usr\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:03:18.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Anasayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\UserManagementSystem\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Anasayfa.cs",
+              "ToolTip": "C:\\Users\\furkn\\OneDrive\\Masa\u00FCst\u00FC\\usr\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem\\Anasayfa.cs [Design]",
+              "RelativeToolTip": "..\\usr\\UserManagementSystem\\UserManagementSystem\\UserManagementSystem\\Anasayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:02:58.027Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
